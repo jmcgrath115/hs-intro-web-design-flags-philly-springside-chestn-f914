@@ -45,32 +45,175 @@ h3 {
 }
 
 /* Germany */
+#germany div {
+  height: 115px;
+  width: 800px;
+}
 
+#g1 {
+  background-color: black;
+}
+
+#g2 {
+  background-color: red;
+}
+#g3 {
+  background-color: yellow;
+}
 
 /* Lithuania */
+#lithuania div {
+  height: 115px;
+  width: 800px;
+}
+
+#l1 {
+  background-color: yellow;
+}
+#l2 {
+  background-color: green;
+}
+#l3{
+  background-color: red;
+}
 
 /* Yemen */
+#yemen div {
+  height: 115px;
+  width: 800px;
+}
+#y1 {
+  background-color: red;
+  margin-bottom: 115px;
+}
+
+#y2{
+  background-color: black;
+}
 
 /* The Gambia */
-
+#gambia div{
+  height: 100px;
+  width: 800px;
+}
+#ga1 {
+  background-color: red;
+  margin-bottom: 10px;
+}
+#ga2 {
+  background-color: blue;
+  margin-bottom: 10px;
+}
+#ga3 {
+  background-color: green;
+}
 /* Yemen */
 
 /* The Gambia */
 
 /* Chad */
-
+#chad div {
+  height: 300px;
+  width: 115px;
+}
+#c1 {
+  background-color: blue;
+  float: left;
+}
+#c2 {
+  background-color: yellow;
+  float: left;
+}
+#c3{
+  background-color: red;
+  float: left;
+}
 /* France */
+#france div {
+  height: 300px;
+  width: 115px;
+}
+#f1 {
+  background-color: blue;
+  margin-right: 115px;
+  float: left;
+}
+#f2 {
+  background-color: red;
+  float: left;
+}
 
 /* Benin */
+#benin div {
+
+}
+#b1 {
+  background-color: green;
+  float: left;
+  height: 300px;
+  width: 115px;
+}
+#b2 {
+  background-color: yellow;
+  height: 150px;
+  width: 300px;
+}
+#b3{
+  background-color: red;
+  height: 150px;
+  width: 300px;
+}
 
 /* UAE */
+#uae div {
 
+}
+#u1 {
+  background-color: red;
+  float: left;
+  height: 300px;
+  width: 115px;
+}
+#u2 {
+  background-color: green;
+  height: 100px;
+  width: 300px;
+}
+#u3{
+  background-color: white;
+  height: 100px;
+  width: 300px;
+}
+#u4{
+  background-color: black;
+  height: 100px;
+  width: 300px;
+}
 /* Denmark */
+#denmark div {
 
-/* Norway */ 
+}
+#d1 {
+  background-color: red;
+  float: left;
+  height: 300px;
+  width: 115px;
+}
+#d2 {
+  background-color: red;
+  height: 100px;
+  width: 300px;
+}
+#d3{
+  background-color: red;
+  height: 100px;
+  width: 300px;
+}
+#d4{
+  background-color: red;
+  height: 100px;
+  width: 300px;
+}
+/* Norway */
 
 /* Greece */
-
-
-
-
